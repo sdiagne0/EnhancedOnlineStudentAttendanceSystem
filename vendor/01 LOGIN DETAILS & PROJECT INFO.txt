@@ -1,0 +1,32 @@
+**Database Name: attendancemsystem**
+
+**Developed by Group 8**
+
+**Recommended PHP Version 5.6 and Newer**
+
+
+**Admin Login Details**
+
+Email   : sdiagne@unccadmin.com
+Password: Password@123
+
+
+**Teacher Login Details**
+
+Email   : crosenthal@uncc.edu
+Password: pass123
+
+Email   : madams@uncc.edu
+Password: pass123
+
+Email   : mjames@uncc.edu
+Password: pass123
+
+Email   : adiagne@uncc.edu
+Password: pass123
+
+Email   : nwilliams@uncc.edu
+Password: pass123
+
+
+**Default password for futur teacher's account creation: uncc2023**
