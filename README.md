@@ -34,6 +34,8 @@ Password: pass123
 Email   : nwilliams@uncc.edu
 Password: pass123
 
+Email : langel@uncc.edu
+Password: uncc2023
 
 **Default password for futur teacher's account creation: uncc2023**
 
