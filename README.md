@@ -5,7 +5,10 @@ This is group 8 final project for software engineering course. The purpose of th
 
 **Developed by Group 8**
 
-**Recommended PHP Version 5.6 and Newer**
+**Recommended PHP Version 7.4 and Newer**
+
+**Recommended PHP My admin SQL Dump version 5.1.1 and Newer**
+
 
 
 **Admin Login Details**
