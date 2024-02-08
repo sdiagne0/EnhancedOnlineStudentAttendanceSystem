@@ -1,4 +1,4 @@
-# Group8_EnhancedOnlineStudentAttendanceSystem
+# EnhancedOnlineStudentAttendanceSystem
 This is group 8 final project for Software engineering course. The purpose of this web application is to facilitate school management by enabling teachers and administrators to efficiently monitor courses, sessions, and student attendance.
 
 **Database Name: attendancemsystem**
